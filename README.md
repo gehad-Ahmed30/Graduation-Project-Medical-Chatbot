@@ -91,7 +91,7 @@ The model filters out irrelevant parts, focuses on symptoms, and accurately pred
 ---
 
 ## 📎 Project Structure
-
+``` 
 AI-Medical-Chatbot/
 │
 ├── data/
@@ -109,3 +109,4 @@ AI-Medical-Chatbot/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+``` 
